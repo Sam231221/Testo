@@ -1,5 +1,5 @@
 ##_**DISCLAIMER**_
-MERN STACK ECOMMERCE PROJECT.
+mern stack ecommerce project.
 
 #### _**IMPORTANT NOTE**_ -
 
